@@ -17,6 +17,7 @@
 		8CCB074B26CC7D6B002BE5C9 /* StandardHomeMovie.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CCB074A26CC7D6B002BE5C9 /* StandardHomeMovie.swift */; };
 		8CCB074D26CC7D94002BE5C9 /* Helper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CCB074C26CC7D94002BE5C9 /* Helper.swift */; };
 		8CCB074F26CC81B5002BE5C9 /* HomeViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CCB074E26CC81B5002BE5C9 /* HomeViewModel.swift */; };
+		8CCB075126CC9660002BE5C9 /* TopMoviePreview.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CCB075026CC9660002BE5C9 /* TopMoviePreview.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		8CCB074A26CC7D6B002BE5C9 /* StandardHomeMovie.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StandardHomeMovie.swift; sourceTree = "<group>"; };
 		8CCB074C26CC7D94002BE5C9 /* Helper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Helper.swift; sourceTree = "<group>"; };
 		8CCB074E26CC81B5002BE5C9 /* HomeViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewModel.swift; sourceTree = "<group>"; };
+		8CCB075026CC9660002BE5C9 /* TopMoviePreview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopMoviePreview.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				8C23D26A26CC72C200EDD17C /* Preview Content */,
 				8CCB074826CC7C6D002BE5C9 /* Movie.swift */,
 				8CCB074C26CC7D94002BE5C9 /* Helper.swift */,
+				8CCB075026CC9660002BE5C9 /* TopMoviePreview.swift */,
 			);
 			path = Netflix;
 			sourceTree = "<group>";
@@ -182,6 +185,7 @@
 				8CCB074F26CC81B5002BE5C9 /* HomeViewModel.swift in Sources */,
 				8CCB074B26CC7D6B002BE5C9 /* StandardHomeMovie.swift in Sources */,
 				8CCB074926CC7C6D002BE5C9 /* Movie.swift in Sources */,
+				8CCB075126CC9660002BE5C9 /* TopMoviePreview.swift in Sources */,
 				8C23D26526CC72C100EDD17C /* NetflixApp.swift in Sources */,
 				8CCB074D26CC7D94002BE5C9 /* Helper.swift in Sources */,
 			);
